@@ -2,8 +2,6 @@
 
 I'm João, a brazilian computer science student currently studying at the University Center of FEI :)
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything you want
 - 📫 How to reach me: joao.santos.ismart@gmail.com / https://www.linkedin.com/in/joao-vitor-dias-dos-santos-17301001/

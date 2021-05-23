@@ -2,7 +2,7 @@
 
 I'm João, a brazilian software engineer hooked up on Kotlin and kinda addcited to CSGO. I'm also interested in Data Science and its application on the financial market. 
 
-<sup> PS: If you wanna have fun with a really bad Reyna, hit me up on the game: mechamonkey22#3885 <sup>
+<sup> PS: If you wanna have fun with a really bad Reyna, hit me up on Valorant: mechamonkey22#3885 <sup>
 
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about anything you want

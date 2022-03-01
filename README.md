@@ -1,6 +1,6 @@
 ### Sup y'all 👋
 
-I'm João, a brazilian software engineer hooked up on Kotlin and kinda addcited to CSGO. I'm also interested in Data Science and its application on the financial market. 
+I'm João, a brazilian software engineer hooked up on Kotlin and kinda addicted to Valorant. I'm also interested in Data Science and its application on the financial market. 
 
 <sup> PS: If you wanna have fun with a really bad Reyna, hit me up on Valorant: mechamonkey22#3885 <sup>
 

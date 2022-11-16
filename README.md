@@ -1,14 +1,12 @@
 ### Sup y'all 👋
 
-I'm João, a brazilian software engineer hooked up on Kotlin and kinda addicted to Valorant. I'm also interested in Data Science and its application on the financial market. 
+I'm João, a brazilian software engineer hooked up on Clojure and kinda addicted to Valorant. I'm also interested in Data Science and its application on the financial market. 
 
-<sup> PS: If you wanna have fun with a really bad Reyna, hit me up on Valorant: mechamonkey22#3885 <sup>
-
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Clojure
 - 💬 Ask me about anything you want
 - 📫 How to reach me: joao.santos.ismart@gmail.com / https://www.linkedin.com/in/joao-vitor-dias-dos-santos-17301001/
 - 😄 Pronouns: Ele/He
-- ⚡ Fun fact: I love punk rock and folk punk
+- ⚡ Fun fact: I'm super into analogic photography
 -->
 
 ## Technologies

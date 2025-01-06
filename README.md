@@ -1,6 +1,6 @@
 ### Sup y'all 👋
 
-I'm João, a Brazilian mid-level software engineer hooked up on Clojure and kinda of addicted to Valorant. I'm also interested in Data Science and its application in the financial market. 
+I'm João, a Brazilian senior software engineer hooked up on Clojure and kinda of addicted to Valorant. I'm also interested in Data Science and its application in the financial market. 
 
 - 🌱 I’m currently learning Clojure and Datomic
 - 💬 Ask me about anything you want
